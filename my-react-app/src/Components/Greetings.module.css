@@ -1,0 +1,13 @@
+.greetingContainer {
+  text-align: center;
+  padding: 20px0;
+}
+
+.greetingTitle {
+  color: rgb(48, 212, 39);
+  font-size: 24px;
+}
+
+.greetingText {
+  color: rgb(27, 21, 205);
+}

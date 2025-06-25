@@ -1,0 +1,13 @@
+.greeting-container {
+  text-align: center;
+  padding: 20px0;
+}
+
+.greeting-title {
+  color: blueviolet;
+  font-size: 24px;
+}
+
+.greeting-text {
+  color: brown;
+}
